@@ -7,6 +7,10 @@ All code was produced by Makayla Ohrberg at Indiana University Indianapolis, Dep
 
 Bird blood and metadata produced by Dr. Alex Jahn at Indiana University, Department of Biology, Bloomington, IN, USA.
 
+Historic bones were loaned out from the Indiana State Museum, Indianapolis, IN, USA.
+
+Modern bones were collected by Makayla Ohrberg from birds from the Rosvall Lab, Indiana University, Bloomington, IN, USA, and the Center for Earth & Environmental Sciences, Indianapolis, IN, USA.
+
 XRF data produced in part by Dr. Aaron Specht at Purdue University, College of Health & Human Sciences, West Lafayette, IN, USA.
 
 Raw ICP-MS data produced by Dr. Shelby Rader at Indiana University, Department of Earth & Atmospheric Sciences, Bloomington, IN, USA.
